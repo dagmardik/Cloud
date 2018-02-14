@@ -8,8 +8,6 @@ public class CameraFollow : MonoBehaviour
 
     public Vector3 m_Offset;
 
-    //hey is this working
-
     public float m_Speed = 3.5f;
     private float X;
     private float Y;
